@@ -7,3 +7,7 @@ output:
 ---
 
 Welcome to my research website.
+
+You can learn more about my cool projects here [link](analysis.html)
+
+
